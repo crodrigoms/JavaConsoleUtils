@@ -18,6 +18,7 @@
         <repository>
             <id>github</id>
             <name>Github Packages</name>
+            <url>https://maven.pkg.github.com/crodrigoms/JavaConsoleUtils</url>
         </repository>
     </distributionManagement>
 
