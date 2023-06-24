@@ -4,6 +4,8 @@
 name: Publish JavaConsoleUtils
 
 on:
+  push: 
+    branches: [main, master]
   release:
     types: [created]
 
