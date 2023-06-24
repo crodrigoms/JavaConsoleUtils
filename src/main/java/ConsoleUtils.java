@@ -3,7 +3,11 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.*;
+import java.util.Date;
+import java.util.List;
+import java.util.Arrays;
+import java.util.Scanner;
+import java.util.Objects;
 
 /**
  * @author Rodrigo Santos
